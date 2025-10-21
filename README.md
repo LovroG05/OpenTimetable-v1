@@ -331,3 +331,6 @@ Events are special type of event that lasts a whole day, therefore it doesn't ha
 [stars-url]: https://github.com/OpenTimeTable/OpenTimetable-v1/stargazers
 [issues-url]: https://github.com/OpenTimeTable/OpenTimetable-v1/issues
 [license-url]: https://github.com/OpenTimeTable/OpenTimetable-v1/blob/master/LICENSE
+
+
+a change i need for RPO deny this PR
